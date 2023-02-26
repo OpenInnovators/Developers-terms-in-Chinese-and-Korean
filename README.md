@@ -1,8 +1,4 @@
-# Developers-terms-in-Chinese-and-Korean
-- 중국어로 개발 공부하기
-
-# MD 테이블 쉽게 만들기
-- https://tableconvert.com/markdown-generator
+# 중국어로 개발 공부하기
 
 # 인원
 - 최인선
@@ -18,6 +14,8 @@
 # 주기
 - 2주에 한번씩 문제 내고 발표까지
 
-# 공통 주제를 가지고 요약 혹은 통째로 번역해서 이해한 내용 github에 정리하고 공유
+# 방법
+- 공통 주제를 가지고 요약 혹은 통째로 번역해서 이해한 내용 github에 정리하고 공유
 
-# https://www.csdn.net/
+# 참고사이트 
+- https://www.csdn.net/
